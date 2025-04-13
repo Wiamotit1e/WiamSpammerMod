@@ -3,15 +3,14 @@
 	"id": "wiamspammer",
 	"version": "1.0.0",
 	"name": "Spammer",
-	"description": "Just used into spamming",
+	"description": "Just used into spamming. WIamotit1e is a real genius!!!",
 	"authors": [
 		"Wiamotit1e"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/Wiamotit1e/WiamSpammerMod"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/wiamspammer/icon.png",
 	"environment": "*",
 	"entrypoints": {
