@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "wiam.wiamspammer.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"client": [
+		"ClientCommonNetworkHandlerMixin",
+		"ClientPlayNetworkHandlerMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "wiamspammer",
+	"version": "1.0.0",
+	"name": "Spammer",
+	"description": "Just used into spamming",
+	"authors": [
+		"Wiamotit1e"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/wiamspammer/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"client": [
+			"wiam.wiamspammer.WiamSpammerClient"
+		]
+	},
+	"mixins": [
+		{
+			"config": "wiamspammer.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.16.12",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
