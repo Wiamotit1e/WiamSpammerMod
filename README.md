@@ -1,4 +1,4 @@
-### WiamSpammer Mod - English Usage Tutorial  
+### WiamSpammer Mod - AI Generated English Usage Tutorial
 
 #### 🔧 **Installation**  
 1. Place the mod JAR in your Minecraft `mods` folder  
