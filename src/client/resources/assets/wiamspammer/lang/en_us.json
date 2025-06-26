@@ -2,6 +2,8 @@
 
 "message.wiamspammer.spammer.started" : "Spam started",
 
-"message.wiamspammer.spammer.stopped" : "Spam stopped"
+"message.wiamspammer.spammer.stopped" : "Spam stopped",
+
+"message.wiamspammer.config.loaded" : "Config loaded"
 
 }

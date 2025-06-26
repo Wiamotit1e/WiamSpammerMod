@@ -36,11 +36,14 @@ public class WiamSpammerClient implements ClientModInitializer {
                         x.getSource().getClient().player.sendMessage(Text.translatable("message.wiamspammer.spammer.stopped").formatted(Formatting.BLUE), false);
                     }
                     return 1;
-}))
+                }))
         ));
 
 		ClientCommandRegistrationCallback.EVENT.register((dispatcher , registryAccess ) -> dispatcher.register(literal("loadspammerconfig").executes(x ->{
             AutoMessageConfig.load();
+            if(x.getSource().getClient().player != null) {
+                x.getSource().getClient().player.sendMessage(Text.translatable("message.wiamspammer.config.loaded").formatted(Formatting.BLUE), false);
+            }
             return 1;
         })));
 	}
