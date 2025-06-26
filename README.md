@@ -133,4 +133,4 @@ Edit `wiamspammer.json` to add rules like:
 - **Config not loading?** Check `wiamspammer.json` for syntax errors.  
 - **Regex issues?** Test patterns at [regex101.com](https://regex101.com).  
 
-> ⚠️ **Warning:** Excessive spamming may result in bans. Use responsibly!
+> ⚠️ **Warning:** Excessive spamming may result in bans. I will mock you if you get banned for it lol.
