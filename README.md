@@ -1,8 +1,8 @@
-### WiamSpammer Mod - English Usage Tutorial  
+### WiamSpammer Mod - AI Generated English Usage Tutorial
 
 #### 🔧 **Installation**  
 1. Place the mod JAR in your Minecraft `mods` folder  
-2. Requires **Fabric API** and **Fabric Language Kotlin** (if used)  
+2. Requires **Fabric API**
 
 ---
 
@@ -133,4 +133,4 @@ Edit `wiamspammer.json` to add rules like:
 - **Config not loading?** Check `wiamspammer.json` for syntax errors.  
 - **Regex issues?** Test patterns at [regex101.com](https://regex101.com).  
 
-> ⚠️ **Warning:** Excessive spamming may result in bans. Use responsibly!
+> ⚠️ **Warning:** Excessive spamming may result in bans. I will mock you if you get banned for it lol.
